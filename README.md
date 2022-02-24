@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irony00
+- 👋 Hi, I’m @dusklight00
 - 👀 I’m interested in Computer Science and Programming
 <!---
 - 🌱 I’m currently learning ...
