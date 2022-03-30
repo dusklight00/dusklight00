@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **AniFlake**
+- 🔭 I’m currently working on **Flake Anime**
 
 - 🌱 I’m currently learning **Gatsby**
 
