@@ -15,7 +15,7 @@ A passionate full stack developer from India. I’m a software engineer speciali
 <p align="left">
     <p align="left">
         <!-- Github Stats -->
-        <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
+        <img width="340px" height="auto" align="right" src="https://stats.quine.sh/dusklight00/github?theme=dark">
         <!-- Languages and tools -->
         <img src='https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,angular,nextjs,nodejs,c,cpp,java,git,github,stackoverflow,python,tensorflow,pytorch,django,flutter,figma,googlecloud,firebase,githubactions,vscode,androidstudio,photoshop,heroku,xd,gitlab&perline=6' width='auto' height='auto'/>
         <br/>
@@ -24,6 +24,6 @@ A passionate full stack developer from India. I’m a software engineer speciali
 
 <p align="center">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=dusklight00" align="center">
-    <img src="https://stats.quine.sh/dusklight00/github?theme=dark" />
+    <img src="" />
   </a>
 </p>
