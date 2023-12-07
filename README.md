@@ -4,9 +4,8 @@ A passionate full stack developer from India. I’m a software engineer speciali
 
 **Talking about some Personal Stuffs:**
 
-
 - 👨🏽‍💻 I’m currently working on [Flake Anime](#)
-<img align="right" width="300px" src="https://stats.quine.sh/dusklight00/github?theme=dark">
+  <img align="right" width="300px" src="https://stats.quine.sh/dusklight00/github?theme=dark">
 
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Full Stack Development.
 - 💬 Ask me about anything, I am happy to help.
@@ -28,6 +27,20 @@ A passionate full stack developer from India. I’m a software engineer speciali
 
 ### My Contributions Graph:
 
+<br/>
+<p align="center">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dusklight00&theme=tokyo-night&hide_border=True&radius=10" alt="dusklight00" />
+</p>
+
+### Connect with me:
+
 <p align="left">
-    <img width="300px" src="" alt="dusklight00" />
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/username"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<!-- Instagram -->
+<a href="https://www.instagram.com/username"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=instagram"/></a>
+<!-- Dev Community -->
+<a href="https://dev.to/username"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
+<!-- Discord -->
+<a href="https://discordapp.com/user/username"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
