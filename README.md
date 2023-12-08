@@ -30,8 +30,14 @@ Currently, I’m focused on learning, growing my skills, and build new ideas!
 ### My Contributions Graph:
 
 <br/>
-<p align="center">
+<!-- <p align="center">
     <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dusklight00&theme=tokyo-night&hide_border=True&radius=10" alt="dusklight00" />
+</p> -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dusklight00&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dusklight00&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dusklight00&theme=github_dark" />
 </p>
 
 ### Connect with me:
